@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Decision-safe detection thresholds for ABFT: code and results"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-08"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    affiliation: "[Department, University]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "[Supervisor surname]"
+    given-names: "[Supervisor given name]"
+    affiliation: "[Department, University]"
+repository-code: "https://github.com/[username]/decision-safe-abft"
+preferred-citation:
+  type: article
+  title: "Decision-Safe Detection Thresholds for Algorithm-Based Fault Tolerance in Low-Precision Transformer Inference"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given name]"
+    - family-names: "[Supervisor surname]"
+      given-names: "[Supervisor given name]"
+  journal: "[Journal, once accepted]"
+  year: 2026
